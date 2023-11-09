@@ -1,0 +1,2 @@
+langchain==0.0.331rc2
+openai>=1.0.0
